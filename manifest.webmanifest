@@ -1,0 +1,16 @@
+{
+  "name": "Home Court by WRLD",
+  "short_name": "Home Court",
+  "description": "Order from the Home Court kiosks — dine-in, pick-up and order for later.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1626",
+  "theme_color": "#0b3a63",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
